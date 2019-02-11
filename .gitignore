@@ -1,0 +1,8 @@
+.idea
+javapuzzlers.iml
+.classpath
+.project
+/build/
+/bin/
+/.gradle/
+/.settings/
